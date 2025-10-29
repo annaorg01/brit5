@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Lead Analysis Dashmashchal room board",
+  "description": "An interactive dashboard to analyze lead performance for coordinators, featuring filtering, sorting, and drill-down capabilities to view performance by lead source and status.",
+  "requestFramePermissions": []
+}
