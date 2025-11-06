@@ -1,5 +1,5 @@
 export const API_BASE_URL = "https://sheets-connector.vercel.app";
-export const API_PROJECT_PATH = "/api/v1/projects/59b69a56-9ffa-4fbb-a34b-34c121aac520/tables/lid";
+export const API_PROJECT_PATH = "/api/v1/projects/b968e4f7-1a0d-4cb8-834a-742241a1d241/tables/agents-view";
 export const API_KEY = "2YyP9m83ob2fyt3FgWAC34rWZXFlPEU2";
 export const BATCH_SIZE = 1000;
 export const MAX_RETRIES = 5;
